@@ -1,0 +1,1 @@
+# extentreports-junit5-adapter
